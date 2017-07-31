@@ -153,7 +153,8 @@ body{
 	display: inline-block;
 	}
 
-	#bahamas,#Australia,#NewZealand,#Denver,#Portland{
+	#bahamas,#Australia,#NewZealand,#Denver,#Portland
+	{
 	position: absolute;
 	font-size: 20px;	
 	background-color: teal;
@@ -163,23 +164,23 @@ body{
 	#bahamas{
 	margin-top: 130px;
 	margin-left: 40px;
-}
-#Australia{
+	}
+	#Australia{
 	margin-top: 130px;
 	margin-left: 340px;
-}
-#NewZealand{
+	}
+	#NewZealand{
 	margin-top: 300px;
 	margin-left: 40px;
-}
-#Denver{
-	margin-top: 300px;
-	margin-left: 340px;
-}
-#Portland{
-	margin-top: 470px;
-	margin-left: 40px;
-}
+	}
+	#Denver{
+		margin-top: 300px;
+		margin-left: 340px;
+	}
+	#Portland{
+		margin-top: 470px;
+		margin-left: 40px;
+	}
 	textarea{
 		height: 300px;
 		width:600px;
@@ -271,22 +272,22 @@ body{
 	margin-top: 130px;
 	margin-left: 40px;
 }
-#Australia{
-	margin-top: 300px;
-	margin-left: 40px;
-}
-#NewZealand{
-	margin-top: 470px;
-	margin-left: 40px;
-}
-#Denver{
-	margin-top: 640px;
-	margin-left: 40px;
-}
-#Portland{
-	margin-top: 800px;
-	margin-left: 40px;
-}
+	#Australia{
+		margin-top: 300px;
+		margin-left: 40px;
+	}
+	#NewZealand{
+		margin-top: 470px;
+		margin-left: 40px;
+	}
+	#Denver{
+		margin-top: 640px;
+		margin-left: 40px;
+	}
+	#Portland{
+		margin-top: 800px;
+		margin-left: 40px;
+	}
 	textarea{
 		height: 300px;
 		width:300px;

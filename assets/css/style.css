@@ -208,7 +208,7 @@ form{
 	bottom: 0px;
 	right: 0px;
 	width: 100%;
-	border-top:5px solid black;
+	border-top:5px solid#4aaaa5;
 	box-sizing: border-box;
 	display: block;
 }

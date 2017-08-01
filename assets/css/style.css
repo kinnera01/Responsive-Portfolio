@@ -198,6 +198,7 @@ form{
 	background-color:teal;
 	font-size:18px ;
 	color: white;
+	width: auto;
 }
 .footer{
 	clear:both;

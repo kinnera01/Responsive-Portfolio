@@ -8,6 +8,14 @@ body{
 	clear:both;
 	height: 100%;
 }
+body{
+	background: url(http://www.uniwallpaper.com/static/images/4640301_Zc4ESGi.jpg) no-repeat center center fixed; 
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+
+}
 /**{
 	margin:0;
 	padding:0;
@@ -71,7 +79,6 @@ a:active {
 	height: 100%;
 	clear:both;
 	display: inline-block;
-	background:url("http://www.planwallpaper.com/static/images/abstract_color_background_picture_8016-wide.jpg");
 	border-top: 5px solid#777777;
 	border-bottom: 5px solid#4aaaa5;
 	padding-bottom: 8px;	/*min-height: calc(100vh - 40px);*/
